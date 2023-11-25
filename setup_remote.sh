@@ -8,7 +8,7 @@
 #
 
 
-PUBLIC_IP=3.142.132.139
+PUBLIC_IP=3.144.35.69
 if [ -z "$PUBLIC_IP" ];then echo "PUBLIC_IP is empty!"; exit 1; fi
 
 # This one needs the full PATH
@@ -26,7 +26,7 @@ if [ -z "$GH_KEY_NAME" ];then echo "GH_KEY_NAME is empty!"; exit 1; fi
 USER=allaccountstaken
 if [ -z "$USER" ];then echo "USER is empty!"; exit 1; fi
 
-EMAIL=dmik@gmail.com
+EMAIL=dmik@vt.edu
 if [ -z "$EMAIL" ];then echo "EMAIL is empty!"; exit 1; fi
 
 
