@@ -44,6 +44,9 @@ user.email=efrainolivaresuva@gmail.com
 ![](https://github.com/DS5111-FALL2023/agp7dp/blob/main/assets/4.png)
 *   and `ssh -T...` commands showing the expected input.
 ![](https://github.com/DS5111-FALL2023/agp7dp/blob/main/assets/5.png)
+* Fixed GitHub public ssh key - all works as expected now
+<img width="691" alt="Screen Shot 2023-12-08 at 2 59 37 PM" src="https://github.com/DS5111-FALL2023/agp7dp/assets/47697555/462cb819-b01b-4030-86f8-5c0d587476ef">
+
 *    Look at [github docs image markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images)
 
 # Quiz - 10 points
